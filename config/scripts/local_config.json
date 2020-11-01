@@ -1,0 +1,110 @@
+{
+  "0": {
+    "metadata_server": {
+      "host": "0.0.0.0",
+      "port": "30000"
+    },
+    "servers": {
+      "1": {
+        "host": "0.0.0.0",
+        "port": "10000"
+      }
+    }
+  },
+  "1": {
+    "metadata_server": {
+      "host": "0.0.0.0",
+      "port": "30000"
+    },
+    "servers": {
+      "1": {
+        "host": "0.0.0.0",
+        "port": "10001"
+      }
+    }
+  },
+  "2": {
+    "metadata_server": {
+      "host": "0.0.0.0",
+      "port": "30000"
+    },
+    "servers": {
+      "1": {
+        "host": "0.0.0.0",
+        "port": "10002"
+      }
+    }
+  },
+  "3": {
+    "metadata_server": {
+      "host": "0.0.0.0",
+      "port": "30000"
+    },
+    "servers": {
+      "1": {
+        "host": "0.0.0.0",
+        "port": "10003"
+      }
+    }
+  },
+  "4": {
+    "metadata_server": {
+      "host": "0.0.0.0",
+      "port": "30000"
+    },
+    "servers": {
+      "1": {
+        "host": "0.0.0.0",
+        "port": "10004"
+      }
+    }
+  },
+  "5": {
+    "metadata_server": {
+      "host": "0.0.0.0",
+      "port": "30000"
+    },
+    "servers": {
+      "1": {
+        "host": "0.0.0.0",
+        "port": "10005"
+      }
+    }
+  },
+  "6": {
+    "metadata_server": {
+      "host": "0.0.0.0",
+      "port": "30000"
+    },
+    "servers": {
+      "1": {
+        "host": "0.0.0.0",
+        "port": "10006"
+      }
+    }
+  },
+  "7": {
+    "metadata_server": {
+      "host": "0.0.0.0",
+      "port": "30000"
+    },
+    "servers": {
+      "1": {
+        "host": "0.0.0.0",
+        "port": "10007"
+      }
+    }
+  },
+  "8": {
+    "metadata_server": {
+      "host": "0.0.0.0",
+      "port": "30000"
+    },
+    "servers": {
+      "1": {
+        "host": "0.0.0.0",
+        "port": "10008"
+      }
+    }
+  }
+}

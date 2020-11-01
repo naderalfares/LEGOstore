@@ -1,0 +1,430 @@
+{
+  "output": [
+    {
+      "id": 0,
+      "protocol": "replication",
+      "m": 5,
+      "k": 1,
+      "selected_dcs": [
+        2,
+        3,
+        4,
+        5,
+        8
+      ],
+      "get_cost": 0.09339882552,
+      "put_cost": 0.013302963072000002,
+      "storage_cost": 7.383561643835615e-07,
+      "vm_cost": 0.9856,
+      "total_cost": 1.0923025269481643,
+      "get_latency": 572.44,
+      "put_latency": 858.6600000000001
+    },
+    {
+      "id": 1,
+      "protocol": "replication",
+      "m": 5,
+      "k": 1,
+      "selected_dcs": [
+        2,
+        3,
+        4,
+        5,
+        8
+      ],
+      "get_cost": 0.095474354976,
+      "put_cost": 0.013598584473600003,
+      "storage_cost": 7.383561643835615e-07,
+      "vm_cost": 0.9856,
+      "total_cost": 1.0946736778057644,
+      "get_latency": 572.44,
+      "put_latency": 858.6600000000001
+    },
+    {
+      "id": 2,
+      "protocol": "replication",
+      "m": 5,
+      "k": 1,
+      "selected_dcs": [
+        2,
+        3,
+        4,
+        5,
+        8
+      ],
+      "get_cost": 0.097549884432,
+      "put_cost": 0.013894205875200002,
+      "storage_cost": 7.383561643835615e-07,
+      "vm_cost": 0.9856,
+      "total_cost": 1.0970448286633645,
+      "get_latency": 572.44,
+      "put_latency": 858.6600000000001
+    },
+    {
+      "id": 3,
+      "protocol": "replication",
+      "m": 5,
+      "k": 1,
+      "selected_dcs": [
+        2,
+        3,
+        4,
+        5,
+        8
+      ],
+      "get_cost": 0.099625413888,
+      "put_cost": 0.014189827276800002,
+      "storage_cost": 7.383561643835615e-07,
+      "vm_cost": 0.9856,
+      "total_cost": 1.0994159795209644,
+      "get_latency": 572.44,
+      "put_latency": 858.6600000000001
+    },
+    {
+      "id": 4,
+      "protocol": "replication",
+      "m": 5,
+      "k": 1,
+      "selected_dcs": [
+        2,
+        3,
+        4,
+        5,
+        8
+      ],
+      "get_cost": 0.10170094334400001,
+      "put_cost": 0.0144854486784,
+      "storage_cost": 7.383561643835615e-07,
+      "vm_cost": 0.9856,
+      "total_cost": 1.1017871303785645,
+      "get_latency": 572.44,
+      "put_latency": 858.6600000000001
+    },
+    {
+      "id": 5,
+      "protocol": "replication",
+      "m": 5,
+      "k": 1,
+      "selected_dcs": [
+        2,
+        3,
+        4,
+        5,
+        8
+      ],
+      "get_cost": 0.1037764728,
+      "put_cost": 0.014781070080000002,
+      "storage_cost": 7.383561643835615e-07,
+      "vm_cost": 0.9856,
+      "total_cost": 1.1041582812361643,
+      "get_latency": 572.44,
+      "put_latency": 858.6600000000001
+    },
+    {
+      "id": 6,
+      "protocol": "replication",
+      "m": 5,
+      "k": 1,
+      "selected_dcs": [
+        2,
+        3,
+        4,
+        5,
+        8
+      ],
+      "get_cost": 0.10585200225600001,
+      "put_cost": 0.015076691481600004,
+      "storage_cost": 7.383561643835615e-07,
+      "vm_cost": 0.9856,
+      "total_cost": 1.1065294320937644,
+      "get_latency": 572.44,
+      "put_latency": 858.6600000000001
+    },
+    {
+      "id": 7,
+      "protocol": "replication",
+      "m": 5,
+      "k": 1,
+      "selected_dcs": [
+        2,
+        3,
+        4,
+        5,
+        8
+      ],
+      "get_cost": 0.10792753171200001,
+      "put_cost": 0.015372312883200004,
+      "storage_cost": 7.383561643835615e-07,
+      "vm_cost": 0.9856,
+      "total_cost": 1.1089005829513645,
+      "get_latency": 572.44,
+      "put_latency": 858.6600000000001
+    },
+    {
+      "id": 8,
+      "protocol": "replication",
+      "m": 5,
+      "k": 1,
+      "selected_dcs": [
+        2,
+        3,
+        4,
+        5,
+        8
+      ],
+      "get_cost": 0.11000306116800002,
+      "put_cost": 0.015667934284800004,
+      "storage_cost": 7.383561643835615e-07,
+      "vm_cost": 0.9856,
+      "total_cost": 1.1112717338089644,
+      "get_latency": 572.44,
+      "put_latency": 858.6600000000001
+    },
+    {
+      "id": 9,
+      "protocol": "replication",
+      "m": 5,
+      "k": 1,
+      "selected_dcs": [
+        2,
+        3,
+        4,
+        5,
+        8
+      ],
+      "get_cost": 0.11207859062400002,
+      "put_cost": 0.015963555686400004,
+      "storage_cost": 7.383561643835615e-07,
+      "vm_cost": 0.9856,
+      "total_cost": 1.1136428846665645,
+      "get_latency": 572.44,
+      "put_latency": 858.6600000000001
+    },
+    {
+      "id": 10,
+      "protocol": "replication",
+      "m": 5,
+      "k": 1,
+      "selected_dcs": [
+        2,
+        3,
+        4,
+        5,
+        8
+      ],
+      "get_cost": 0.11415412008,
+      "put_cost": 0.016259177088000006,
+      "storage_cost": 7.383561643835615e-07,
+      "vm_cost": 0.9856,
+      "total_cost": 1.1160140355241643,
+      "get_latency": 572.44,
+      "put_latency": 858.6600000000001
+    },
+    {
+      "id": 11,
+      "protocol": "replication",
+      "m": 5,
+      "k": 1,
+      "selected_dcs": [
+        2,
+        3,
+        4,
+        5,
+        8
+      ],
+      "get_cost": 0.116229649536,
+      "put_cost": 0.016554798489600005,
+      "storage_cost": 7.383561643835615e-07,
+      "vm_cost": 0.9856,
+      "total_cost": 1.1183851863817644,
+      "get_latency": 572.44,
+      "put_latency": 858.6600000000001
+    },
+    {
+      "id": 12,
+      "protocol": "replication",
+      "m": 5,
+      "k": 1,
+      "selected_dcs": [
+        2,
+        3,
+        4,
+        5,
+        8
+      ],
+      "get_cost": 0.118305178992,
+      "put_cost": 0.016850419891200005,
+      "storage_cost": 7.383561643835615e-07,
+      "vm_cost": 0.9856,
+      "total_cost": 1.1207563372393645,
+      "get_latency": 572.44,
+      "put_latency": 858.6600000000001
+    },
+    {
+      "id": 13,
+      "protocol": "replication",
+      "m": 5,
+      "k": 1,
+      "selected_dcs": [
+        2,
+        3,
+        4,
+        5,
+        8
+      ],
+      "get_cost": 0.12038070844799999,
+      "put_cost": 0.0171460412928,
+      "storage_cost": 7.383561643835615e-07,
+      "vm_cost": 0.9856,
+      "total_cost": 1.1231274880969644,
+      "get_latency": 572.44,
+      "put_latency": 858.6600000000001
+    },
+    {
+      "id": 14,
+      "protocol": "replication",
+      "m": 5,
+      "k": 1,
+      "selected_dcs": [
+        2,
+        3,
+        4,
+        5,
+        8
+      ],
+      "get_cost": 0.122456237904,
+      "put_cost": 0.017441662694400003,
+      "storage_cost": 7.383561643835615e-07,
+      "vm_cost": 0.9856,
+      "total_cost": 1.1254986389545645,
+      "get_latency": 572.44,
+      "put_latency": 858.6600000000001
+    },
+    {
+      "id": 15,
+      "protocol": "replication",
+      "m": 5,
+      "k": 1,
+      "selected_dcs": [
+        2,
+        3,
+        4,
+        5,
+        8
+      ],
+      "get_cost": 0.12453176736,
+      "put_cost": 0.017737284096000002,
+      "storage_cost": 7.383561643835615e-07,
+      "vm_cost": 0.9856,
+      "total_cost": 1.1278697898121643,
+      "get_latency": 572.44,
+      "put_latency": 858.6600000000001
+    },
+    {
+      "id": 16,
+      "protocol": "replication",
+      "m": 5,
+      "k": 1,
+      "selected_dcs": [
+        2,
+        3,
+        4,
+        5,
+        8
+      ],
+      "get_cost": 0.12660729681600003,
+      "put_cost": 0.018032905497600005,
+      "storage_cost": 7.383561643835615e-07,
+      "vm_cost": 0.9856,
+      "total_cost": 1.1302409406697644,
+      "get_latency": 572.44,
+      "put_latency": 858.6600000000001
+    },
+    {
+      "id": 17,
+      "protocol": "replication",
+      "m": 5,
+      "k": 1,
+      "selected_dcs": [
+        2,
+        3,
+        4,
+        5,
+        8
+      ],
+      "get_cost": 0.128682826272,
+      "put_cost": 0.0183285268992,
+      "storage_cost": 7.383561643835615e-07,
+      "vm_cost": 0.9856,
+      "total_cost": 1.1326120915273643,
+      "get_latency": 572.44,
+      "put_latency": 858.6600000000001
+    },
+    {
+      "id": 18,
+      "protocol": "replication",
+      "m": 5,
+      "k": 1,
+      "selected_dcs": [
+        2,
+        3,
+        4,
+        5,
+        8
+      ],
+      "get_cost": 0.13075835572800001,
+      "put_cost": 0.018624148300800003,
+      "storage_cost": 7.383561643835615e-07,
+      "vm_cost": 0.9856,
+      "total_cost": 1.1349832423849644,
+      "get_latency": 572.44,
+      "put_latency": 858.6600000000001
+    },
+    {
+      "id": 19,
+      "protocol": "replication",
+      "m": 5,
+      "k": 1,
+      "selected_dcs": [
+        2,
+        3,
+        4,
+        5,
+        8
+      ],
+      "get_cost": 0.132833885184,
+      "put_cost": 0.018919769702400002,
+      "storage_cost": 7.383561643835615e-07,
+      "vm_cost": 0.9856,
+      "total_cost": 1.1373543932425645,
+      "get_latency": 572.44,
+      "put_latency": 858.6600000000001
+    },
+    {
+      "id": 20,
+      "protocol": "replication",
+      "m": 5,
+      "k": 1,
+      "selected_dcs": [
+        2,
+        3,
+        4,
+        5,
+        8
+      ],
+      "get_cost": 0.13490941463999997,
+      "put_cost": 0.019215391104000005,
+      "storage_cost": 7.383561643835615e-07,
+      "vm_cost": 0.9856,
+      "total_cost": 1.1397255441001644,
+      "get_latency": 572.44,
+      "put_latency": 858.6600000000001
+    }
+  ],
+  "overall_cost": 23.436294746007455,
+  "get_cost": 2.3972365216800005,
+  "put_cost": 0.3414427188480001,
+  "storage_cost": 1.550547945205479e-05,
+  "vm_cost": 20.697600000000005,
+  "time_period_hrs": 21.0
+}
